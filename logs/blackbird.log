@@ -1,0 +1,109 @@
+2025-02-16 12:08:57,336 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2025-02-16 12:08:57,610 - urllib3.connectionpool - DEBUG - https://raw.githubusercontent.com:443 "GET /WebBreacher/WhatsMyName/main/wmn-data.json HTTP/1.1" 200 42366
+2025-02-16 12:08:57,676 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-02-16 12:09:01,176 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.bdsmlr.com | Cannot connect to host myrovych.roman.bdsmlr.com:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:09:01,780 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.booth.pm/ | Cannot connect to host myrovych.roman.booth.pm:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:09:02,301 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.carrd.co | Cannot connect to host myrovych.roman.carrd.co:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:09:08,970 - root - ERROR - Error in Async HTTP Request [GET]  https://www.habbo.com/api/public/users?name=myrovych.roman | %20https://www.habbo.com/api/public/users?name=myrovych.roman
+2025-02-16 12:09:08,972 - root - ERROR - Error in Async HTTP Request [GET]  https://www.habbo.es/api/public/users?name=myrovych.roman | %20https://www.habbo.es/api/public/users?name=myrovych.roman
+2025-02-16 12:09:17,278 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.medium.com/about | Cannot connect to host myrovych.roman.medium.com:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:09:21,580 - root - ERROR - Error in Async HTTP Request [GET] https://www.babyblog.ru/user/myrovych.roman | Cannot connect to host www.babyblog.ru:443 ssl:False [Превышен таймаут семафора]
+2025-02-16 12:09:22,493 - chardet.charsetprober - DEBUG - SHIFT_JIS Japanese prober hit error at byte 377
+2025-02-16 12:09:22,495 - chardet.charsetprober - DEBUG - EUC-JP Japanese prober hit error at byte 377
+2025-02-16 12:09:22,496 - chardet.charsetprober - DEBUG - GB2312 Chinese prober hit error at byte 377
+2025-02-16 12:09:22,497 - chardet.charsetprober - DEBUG - EUC-KR Korean prober hit error at byte 377
+2025-02-16 12:09:22,498 - chardet.charsetprober - DEBUG - CP949 Korean prober hit error at byte 377
+2025-02-16 12:09:22,499 - chardet.charsetprober - DEBUG - Big5 Chinese prober hit error at byte 377
+2025-02-16 12:09:22,499 - chardet.charsetprober - DEBUG - EUC-TW Taiwan prober hit error at byte 377
+2025-02-16 12:09:22,500 - chardet.charsetprober - DEBUG - Johab Korean prober hit error at byte 377
+2025-02-16 12:09:22,543 - chardet.charsetprober - DEBUG - windows-1251 Russian confidence = 0.012877541096307624
+2025-02-16 12:09:22,544 - chardet.charsetprober - DEBUG - KOI8-R Russian confidence = 0.012877541096307624
+2025-02-16 12:09:22,544 - chardet.charsetprober - DEBUG - ISO-8859-5 Russian confidence = 0.0
+2025-02-16 12:09:22,544 - chardet.charsetprober - DEBUG - MacCyrillic Russian confidence = 0.02216032038138003
+2025-02-16 12:09:22,544 - chardet.charsetprober - DEBUG - IBM866 Russian confidence = 0.0
+2025-02-16 12:09:22,545 - chardet.charsetprober - DEBUG - IBM855 Russian confidence = 0.0
+2025-02-16 12:09:22,545 - chardet.charsetprober - DEBUG - ISO-8859-7 Greek confidence = 0.020896821123915565
+2025-02-16 12:09:22,545 - chardet.charsetprober - DEBUG - windows-1253 Greek confidence = 0.025257914327950205
+2025-02-16 12:09:22,545 - chardet.charsetprober - DEBUG - ISO-8859-5 Bulgarian confidence = 0.0062686292664202795
+2025-02-16 12:09:22,545 - chardet.charsetprober - DEBUG - windows-1251 Bulgarian confidence = 0.0
+2025-02-16 12:09:22,545 - chardet.charsetprober - DEBUG - TIS-620 Thai confidence = 0.01
+2025-02-16 12:09:22,545 - chardet.charsetprober - DEBUG - ISO-8859-9 Turkish confidence = 0.40002165578332294
+2025-02-16 12:09:22,545 - chardet.charsetprober - DEBUG - ISO-8859-8 Hebrew confidence = 0.0
+2025-02-16 12:09:22,545 - chardet.charsetprober - DEBUG - ISO-8859-8 Hebrew confidence = 0.05016178562460793
+2025-02-16 12:09:22,546 - chardet.charsetprober - DEBUG - ISO-8859-8 Hebrew confidence = 0.046094613817207294
+2025-02-16 12:09:24,086 - root - ERROR - Error in Async HTTP Request [GET] https://rblx.trade/api/v1/user/get-by-username?username=myrovych.roman | Cannot connect to host rblx.trade:443 ssl:False [getaddrinfo failed]
+2025-02-16 12:09:24,238 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.reblogme.com | Cannot connect to host myrovych.roman.reblogme.com:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:09:25,343 - root - ERROR - Error in Async HTTP Request [GET] https://curiouscat.live/api/v2.1/profile?username=myrovych.roman | Cannot connect to host curiouscat.live:443 ssl:False [Превышен таймаут семафора]
+2025-02-16 12:09:26,838 - root - ERROR - Error in Async HTTP Request [GET] https://drum.io/myrovych.roman/ | Cannot connect to host drum.io:443 ssl:False [Превышен таймаут семафора]
+2025-02-16 12:09:27,290 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.sofurry.com | Cannot connect to host myrovych.roman.sofurry.com:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:09:33,807 - root - ERROR - Error in Async HTTP Request [GET] https://teddysgirls.net/models/myrovych.roman | Cannot connect to host teddysgirls.net:443 ssl:False [Удаленный компьютер отклонил это сетевое подключение]
+2025-02-16 12:09:35,505 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.uwu.ai/ | Cannot connect to host myrovych.roman.uwu.ai:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:09:36,853 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.weebly.com/ | Cannot connect to host myrovych.roman.weebly.com:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:09:38,415 - root - ERROR - Error in Async HTTP Request [GET] https://giters.com/myrovych.roman | TimeoutError()
+2025-02-16 12:30:42,168 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2025-02-16 12:30:42,530 - urllib3.connectionpool - DEBUG - https://raw.githubusercontent.com:443 "GET /WebBreacher/WhatsMyName/main/wmn-data.json HTTP/1.1" 200 42366
+2025-02-16 12:30:42,583 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-02-16 12:30:46,649 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.bdsmlr.com | Cannot connect to host myrovych.roman.bdsmlr.com:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:30:47,327 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.booth.pm/ | Cannot connect to host myrovych.roman.booth.pm:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:30:47,969 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.carrd.co | Cannot connect to host myrovych.roman.carrd.co:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:30:54,231 - root - ERROR - Error in Async HTTP Request [GET]  https://www.habbo.com/api/public/users?name=myrovych.roman | %20https://www.habbo.com/api/public/users?name=myrovych.roman
+2025-02-16 12:30:54,233 - root - ERROR - Error in Async HTTP Request [GET]  https://www.habbo.es/api/public/users?name=myrovych.roman | %20https://www.habbo.es/api/public/users?name=myrovych.roman
+2025-02-16 12:31:01,640 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.medium.com/about | Cannot connect to host myrovych.roman.medium.com:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:31:06,974 - chardet.charsetprober - DEBUG - SHIFT_JIS Japanese prober hit error at byte 377
+2025-02-16 12:31:06,976 - chardet.charsetprober - DEBUG - EUC-JP Japanese prober hit error at byte 377
+2025-02-16 12:31:06,978 - chardet.charsetprober - DEBUG - GB2312 Chinese prober hit error at byte 377
+2025-02-16 12:31:06,978 - chardet.charsetprober - DEBUG - EUC-KR Korean prober hit error at byte 377
+2025-02-16 12:31:06,979 - chardet.charsetprober - DEBUG - CP949 Korean prober hit error at byte 377
+2025-02-16 12:31:06,980 - chardet.charsetprober - DEBUG - Big5 Chinese prober hit error at byte 377
+2025-02-16 12:31:06,981 - chardet.charsetprober - DEBUG - EUC-TW Taiwan prober hit error at byte 377
+2025-02-16 12:31:06,982 - chardet.charsetprober - DEBUG - Johab Korean prober hit error at byte 377
+2025-02-16 12:31:07,030 - chardet.charsetprober - DEBUG - windows-1251 Russian confidence = 0.012877541096307624
+2025-02-16 12:31:07,030 - chardet.charsetprober - DEBUG - KOI8-R Russian confidence = 0.012877541096307624
+2025-02-16 12:31:07,030 - chardet.charsetprober - DEBUG - ISO-8859-5 Russian confidence = 0.0
+2025-02-16 12:31:07,030 - chardet.charsetprober - DEBUG - MacCyrillic Russian confidence = 0.02216032038138003
+2025-02-16 12:31:07,030 - chardet.charsetprober - DEBUG - IBM866 Russian confidence = 0.0
+2025-02-16 12:31:07,030 - chardet.charsetprober - DEBUG - IBM855 Russian confidence = 0.0
+2025-02-16 12:31:07,030 - chardet.charsetprober - DEBUG - ISO-8859-7 Greek confidence = 0.020896821123915565
+2025-02-16 12:31:07,030 - chardet.charsetprober - DEBUG - windows-1253 Greek confidence = 0.025257914327950205
+2025-02-16 12:31:07,030 - chardet.charsetprober - DEBUG - ISO-8859-5 Bulgarian confidence = 0.0062686292664202795
+2025-02-16 12:31:07,030 - chardet.charsetprober - DEBUG - windows-1251 Bulgarian confidence = 0.0
+2025-02-16 12:31:07,030 - chardet.charsetprober - DEBUG - TIS-620 Thai confidence = 0.01
+2025-02-16 12:31:07,030 - chardet.charsetprober - DEBUG - ISO-8859-9 Turkish confidence = 0.40002165578332294
+2025-02-16 12:31:07,031 - chardet.charsetprober - DEBUG - ISO-8859-8 Hebrew confidence = 0.0
+2025-02-16 12:31:07,031 - chardet.charsetprober - DEBUG - ISO-8859-8 Hebrew confidence = 0.05016178562460793
+2025-02-16 12:31:07,031 - chardet.charsetprober - DEBUG - ISO-8859-8 Hebrew confidence = 0.046094613817207294
+2025-02-16 12:31:07,146 - root - ERROR - Error in Async HTTP Request [GET] https://www.babyblog.ru/user/myrovych.roman | Cannot connect to host www.babyblog.ru:443 ssl:False [Превышен таймаут семафора]
+2025-02-16 12:31:08,276 - root - ERROR - Error in Async HTTP Request [GET] https://rblx.trade/api/v1/user/get-by-username?username=myrovych.roman | Cannot connect to host rblx.trade:443 ssl:False [getaddrinfo failed]
+2025-02-16 12:31:08,441 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.reblogme.com | Cannot connect to host myrovych.roman.reblogme.com:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:31:10,956 - root - ERROR - Error in Async HTTP Request [GET] https://curiouscat.live/api/v2.1/profile?username=myrovych.roman | Cannot connect to host curiouscat.live:443 ssl:False [Превышен таймаут семафора]
+2025-02-16 12:31:11,267 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.sofurry.com | Cannot connect to host myrovych.roman.sofurry.com:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:31:12,236 - root - ERROR - Error in Async HTTP Request [GET] https://drum.io/myrovych.roman/ | Cannot connect to host drum.io:443 ssl:False [Превышен таймаут семафора]
+2025-02-16 12:31:17,946 - root - ERROR - Error in Async HTTP Request [GET] https://teddysgirls.net/models/myrovych.roman | Cannot connect to host teddysgirls.net:443 ssl:False [Удаленный компьютер отклонил это сетевое подключение]
+2025-02-16 12:31:18,904 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.uwu.ai/ | Cannot connect to host myrovych.roman.uwu.ai:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:31:20,264 - root - ERROR - Error in Async HTTP Request [GET] https://myrovych.roman.weebly.com/ | Cannot connect to host myrovych.roman.weebly.com:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)]
+2025-02-16 12:31:25,167 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-02-16 12:31:25,168 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-02-16 12:31:25,168 - PIL.PngImagePlugin - DEBUG - STREAM b'sBIT' 54 4
+2025-02-16 12:31:25,168 - PIL.PngImagePlugin - DEBUG - b'sBIT' 54 4 (unknown)
+2025-02-16 12:31:25,168 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-02-16 12:31:25,168 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 91 1127
+2025-02-16 12:31:25,168 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1230 8192
+2025-02-16 12:31:25,233 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-02-16 12:31:25,234 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2025-02-16 12:31:25,234 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 850
+2025-02-16 12:31:25,234 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 924 8192
+2025-02-16 12:31:25,253 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-02-16 12:31:25,253 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2025-02-16 12:31:25,253 - PIL.PngImagePlugin - DEBUG - STREAM b'tEXt' 62 25
+2025-02-16 12:31:25,253 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 99 8192
+2025-02-16 12:31:25,281 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-02-16 12:31:25,281 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-02-16 12:31:25,281 - PIL.PngImagePlugin - DEBUG - STREAM b'sBIT' 54 4
+2025-02-16 12:31:25,281 - PIL.PngImagePlugin - DEBUG - b'sBIT' 54 4 (unknown)
+2025-02-16 12:31:25,281 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-02-16 12:31:25,282 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 91 855
+2025-02-16 12:31:25,282 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 958 1369
+2025-02-16 12:31:25,284 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-02-16 12:31:25,284 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2025-02-16 12:31:25,284 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 850
+2025-02-16 12:31:25,284 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 924 8192
